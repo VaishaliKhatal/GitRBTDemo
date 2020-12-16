@@ -1,7 +1,9 @@
 Hello world!!!
 
-Change: for feature login.
+Change:- for feature login.
 
-Change: for logout.
+Change:- for logout.
 
-Change: fix bug1.
+Change:- fix bug1.
+
+Change:- by team mate for WI4 this to test 3-way merging.
