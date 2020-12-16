@@ -1,7 +1,9 @@
 Hello world!!!
 
-Change: for feature login.
+Change 1: for feature login.
 
-Change: for logout.
+Change 2: for logout.
 
-Change: fix bug1.
+Change 3: fix bug1.
+
+Change 4: fix bug2 for 3 way merging check
