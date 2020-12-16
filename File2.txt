@@ -1,5 +1,5 @@
-Welcome to git demo
+Welcome to git demo!!
 
 Check the sinple push to remote master
 
-teammate pushed change for CR3 on remote master
+Teammate pushed change for CR3 on remote master
