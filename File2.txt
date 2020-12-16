@@ -1,1 +1,3 @@
 Welcome to git demo
+
+Check the sinple push to remote master
