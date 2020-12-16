@@ -11,8 +11,10 @@ Change 4:-> By team mate for WI4 this to test 3-way merging.
 
 Change 5:-> Fix bug2 for 3 way merging check.
 
-Change 6:-> On master by team mate for WI5 to test rebase with conflict
+Change 6:-> On master by team mate for WI5 to test rebase with conflict.
 
-Change 7:-> For CR1 to test rebase with conflict. 
+Change 7:-> For CR1 updated to test rebase with conflict. 
 
-Change 8:-> Push on remote master by tema amte for WI7 to test rebase 
+Chnage 8:-> On local master for Bug6 to test rebase.
+
+Change 9:-> Push on remote master by tema amte for WI7 to test rebase. 
